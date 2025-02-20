@@ -30,20 +30,18 @@ A simple and efficient **Task Manager App** built using **ReactJS, Redux, and Fr
 
 ## 📦 Installation & Usage  
 ### 1️⃣ Clone the Repository  
-```sh
+```
 git clone https://github.com/yourusername/task-manager-app.git
 cd task-manager-app
 ```
 2️⃣ Install Dependencies
-```sh
-Copy
-Edit
+```
+
 npm install
 ```
 3️⃣ Run the App
-```sh
-Copy
-Edit
+```
+
 npm start
 ```
 This will start the app at http://localhost:3000/
