@@ -26,7 +26,7 @@ A simple and efficient **Task Manager App** built using **ReactJS, Redux, and Fr
 - **LocalStorage** - Data Persistence  
 
 ## 📸 Screenshots  
-*(Add relevant screenshots of your app here to showcase UI & features)*  
+#Alt[image.jpg]  
 
 ## 📦 Installation & Usage  
 ### 1️⃣ Clone the Repository  
