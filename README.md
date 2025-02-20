@@ -26,12 +26,12 @@ A simple and efficient **Task Manager App** built using **ReactJS, Redux, and Fr
 - **LocalStorage** - Data Persistence  
 
 ## 📸 Screenshots  
-#Alt[image.jpg]  
+[](image.jpg)
 
 ## 📦 Installation & Usage  
 ### 1️⃣ Clone the Repository  
 ```
-git clone https://github.com/yourusername/task-manager-app.git
+git clone https://github.com/manojkumar2291/task.git
 cd task-manager-app
 ```
 2️⃣ Install Dependencies
