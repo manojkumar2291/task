@@ -46,20 +46,7 @@ const DisplayTodos = (props) => {
   Active
 </motion.button>
 
-<motion.button
-  whileHover={{ scale: 1.1 }}
-  whileTap={{ scale: 0.9 }}
-  onClick={() => setSort("inprogress")}
-  style={{
-    backgroundColor: sort === "inprogress" ? "#2563eb" : "#e5e7eb",
-    color: sort === "inprogress" ? "#fff" : "#000",
-    padding: "10px 16px",
-    borderRadius: "8px",
-    transition: "all 0.3s ease-in-out",
-  }}
->
-  InProgress
-</motion.button>
+
 
 <motion.button
   whileHover={{ scale: 1.1 }}
